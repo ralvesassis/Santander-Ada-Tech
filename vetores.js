@@ -6,8 +6,8 @@ const numerosPrimos = [1, 2, 3, 5, 7]
 {const alunos = ['Rodrigo','Gabriela', 'Liz'] 
     console.log(alunos) 
     {
-        const condicoesClimatica = ['Ensolarado', 'Chuvoso', 'Nublado','Sol entre nuvens']
-        console.log(condicoesClimatica) //O ideal são as variaveis estarem disponiveis dentro de seu escopo ou de seu escopo mais interno.
+        const condicoesClimaticaS = ['Ensolarado', 'Chuvoso', 'Nublado','Sol entre nuvens']
+        console.log(condicoesClimaticaS) //O ideal são as variaveis estarem disponiveis dentro de seu escopo ou de seu escopo mais interno.
     }
 
 }
